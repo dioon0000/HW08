@@ -28,5 +28,5 @@
   - ReverseControlItem: 일정 시간 동안 이동 키 방향 반전
  
 ## 🎥 시연 영상
-[![Video Label](https://img.youtube.com/vi/ObXoFsDbEGY/0.jpg)](https://www.youtu.be/ObXoFsDbEGY)
+[![Video Label](https://img.youtube.com/vi/ObXoFsDbEGY/0.jpg)](https://youtu.be/ObXoFsDbEGY)
 
